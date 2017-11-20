@@ -1,0 +1,111 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Apollo\Documents\2DTiled\BuildColeMcDaniel\ColeMcDanielBuildMidterm_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.831899 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 37.790374 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 459.
+Total: 1.083653 ms (FindLiveObjects: 0.118518 ms CreateObjectMapping: 0.076641 ms MarkObjects: 0.838319 ms  DeleteObjects: 0.048197 ms)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.859553 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 465.
+Total: 1.291850 ms (FindLiveObjects: 0.157234 ms CreateObjectMapping: 0.116938 ms MarkObjects: 0.915752 ms  DeleteObjects: 0.099555 ms)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.902219 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 1.110517 ms (FindLiveObjects: 0.143012 ms CreateObjectMapping: 0.109431 ms MarkObjects: 0.837529 ms  DeleteObjects: 0.018567 ms)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.923553 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 1.072986 ms (FindLiveObjects: 0.130765 ms CreateObjectMapping: 0.105876 ms MarkObjects: 0.808295 ms  DeleteObjects: 0.024888 ms)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin touched!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.017972 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 12.799984 ms (FindLiveObjects: 0.120888 ms CreateObjectMapping: 0.106666 ms MarkObjects: 1.046912 ms  DeleteObjects: 11.522751 ms)
+
+Has quit Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d4c -> priority: 1 
+  Thread -> id: 3ddc -> priority: 1 
